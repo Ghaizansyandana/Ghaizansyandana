@@ -2,7 +2,7 @@
 <p align="center"><b>"THE SYSTEM IS BROKEN. WE ARE THE PATCH."</b></p>
 
 <p align="center">
-  <img src="img/octane.png" width="100"/>
+  <img src="img/octane.png" width="800"/>
 </p>
 
 ## 🌐 DIRECT CHANNEL
