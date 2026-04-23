@@ -1,5 +1,5 @@
 # <p align="center">🏴‍☠️ GOJIN REBEL 🏴‍☠️</p>
-<p align="center"><b>"THE SYSTEM IS BROKEN. WE ARE THE PATCH."</b></p>
+<p align="center" width="800"><b>"THE SYSTEM IS BROKEN. WE ARE THE PATCH."</b></p>
 
 <p align="center">
   <img src="img/octane.png" width="800"/>
