@@ -2,7 +2,7 @@
 <p align="center"><b>"THE SYSTEM IS BROKEN. WE ARE THE PATCH."</b></p>
 
 <p align="center">
-  <img src="img/octane.png" width="300" />
+  <img src="https://komarev.com/ghpvc/?username=Ghaizansyandana&color=ff003c&style=flat-square&label=TARGETS_VISITED" />
 </p>
 
 ## 🌐 DIRECT CHANNEL
