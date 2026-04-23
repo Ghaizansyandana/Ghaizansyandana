@@ -39,7 +39,7 @@
 
 ### 🔝 HIGH VALUE TARGETS
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Ghaizansyandana&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0a0a0a&title_color=ff003c&text_color=ffffff" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
