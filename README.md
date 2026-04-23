@@ -1,4 +1,4 @@
-# <p align="center">🏴‍☠️ CRASH CODE STUDIO | GOJIN REBEL 🏴‍☠️</p>
+# <p align="center">🏴‍☠️ GOJIN REBEL 🏴‍☠️</p>
 <p align="center"><b>"THE SYSTEM IS BROKEN. WE ARE THE PATCH."</b></p>
 
 <p align="center">
