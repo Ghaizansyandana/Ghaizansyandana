@@ -24,8 +24,13 @@
 
 # 📊 THE CRIME SCENE (STATS)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ghaizansyandana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=ff003c&icon_color=ff003c&text_color=ffffff" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ghaizansyandana&theme=dark&hide_border=false&background=0a0a0a&stroke=ff003c&ring=ff003c&fire=ff003c&currStreakLabel=ff003c" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ghaizansyandana&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=ff003c&icon_color=ff003c&text_color=ffffff" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaizansyandana&theme=dark&background=0a0a0a&stroke=ff003c&ring=ff003c&fire=ff003c&currStreakLabel=ff003c" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghaizansyandana&theme=dark&hide_border=false&layout=compact&bg_color=0a0a0a&title_color=ff003c&text_color=ffffff" width="400" />
 </p>
 
 <p align="center">
